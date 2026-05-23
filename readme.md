@@ -11,3 +11,4 @@
 ### feature-2 (Merge Rebase)
 * 1st comment from feature-2 branch
 * 2nd comment from feature-2 branch
+* 3rd comment from feature-2 branch
