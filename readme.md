@@ -13,3 +13,6 @@
 * 2nd comment from feature-2 branch
 * 3rd comment from feature-2 branch
 * 4th comment from feature-2 branch
+
+### feature-3 (Merge Squash)
+* 1st comment from feature-3 branch
