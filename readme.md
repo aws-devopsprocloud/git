@@ -18,3 +18,4 @@
 * 1st comment from feature-3 branch
 * 2nd comment from feature-3 branch
 * 3rd comment from feature-3 branch
+* 4th comment from feature-3 branch
