@@ -16,3 +16,4 @@
 
 ### feature-3 (Merge Squash)
 * 1st comment from feature-3 branch
+* 2nd comment from feature-3 branch
